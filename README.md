@@ -4,6 +4,8 @@ This repository contains my implementations and practice of Data Structures and 
 
 I am learning DSA step by step by implementing concepts from scratch and solving problems to improve logic building and problem-solving skills.
 
+For every topic, I am implementing different operations and algorithms to understand how each data structure works internally and how they are used in problem solving.
+
 ---
 
 ## 📂 Topics Included
@@ -22,6 +24,22 @@ I am learning DSA step by step by implementing concepts from scratch and solving
 - Heap
 - Deque
 - Time Complexity
+
+---
+
+## ⚙️ Implementations
+
+Each topic contains implementations of important operations such as:
+- Traversal
+- Insertion
+- Deletion
+- Searching
+- Sorting
+- Updating
+- Traversing
+- Problem-solving examples
+
+The goal is to build strong fundamentals by writing code from scratch instead of only learning theory.
 
 ---
 
